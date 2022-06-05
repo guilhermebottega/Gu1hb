@@ -16,7 +16,7 @@
   </p>
   <p align="left">
     :globe_with_meridians:
-    <strong>Portfolio:</strong> Coming soon.
+    <strong>Portfolio:</strong> Loading...
   </p>
 </div>
 <br />
