@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="300" src="https://gamersboard.com.br/uploads/monthly_2021_12/logores.thumb.png.a058c0b718c03de8b508fac9f009250c.png" alt="avatar">
+  <img align="right" width="300" src="" alt="avatar">
   <h1>About me</h1>
   <p align="left">
      My name is Guilherme, I am 17 years-old and 
