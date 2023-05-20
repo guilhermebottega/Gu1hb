@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="300" src="https://gamersboard.com.br/uploads/monthly_2021_12/logores.png.5f0d78cc6ea841fc23098d00960f374e.png" alt="avatar">
+  <img align="right" width="300" src="https://pbs.twimg.com/profile_images/1653930096435011592/Oiajwclf_400x400.jpg" alt="avatar">
   <h1>About me</h1>
   <p align="left">
      My name is Guilherme, I am 18 years-old and 
@@ -20,7 +20,7 @@
   </p>
 </div>
 <br />
-<a href="https://twitter.com/bottega_gui/" target="_blank">
+<a href="https://twitter.com/bottegainc/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-badge"/>
 </a>
 <a href="https://discord.com/users/664482003881558047" target="_blank">
