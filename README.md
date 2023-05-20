@@ -2,13 +2,13 @@
   <img align="right" width="300" src="https://gamersboard.com.br/uploads/monthly_2021_12/logores.png.5f0d78cc6ea841fc23098d00960f374e.png" alt="avatar">
   <h1>About me</h1>
   <p align="left">
-     My name is Guilherme, I am 17 years-old and 
+     My name is Guilherme, I am 18 years-old and 
     I am <strong>beginner developer</strong>, 
      I love programming languages.
   </p>
   <p align="left">
     :maple_leaf:
-    <strong>Language:</strong> Java and PHP.
+    <strong>Language:</strong> Java, JavaScript, Python, HTML, CSS, PHP.
   </p>
   <p align="left">
     :leaves:
