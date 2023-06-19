@@ -8,7 +8,7 @@
   </p>
   <p align="left">
     :maple_leaf:
-    <strong>Language:</strong> Java, JavaScript, Python, HTML, CSS, PHP.
+    <strong>Language:</strong> Java, JavaScript, Python e PHP.
   </p>
   <p align="left">
     :leaves:
