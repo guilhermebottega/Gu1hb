@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="300" src="https://pbs.twimg.com/profile_images/1659713590968852484/jOT2tPpZ_400x400.jpg" alt="avatar">
+  <img align="right" width="300" src="https://pbs.twimg.com/profile_images/1621642428804464640/0Qt7vdPw_400x400.jpg" alt="avatar">
   <h1>About me</h1>
   <p align="left">
      My name is Guilherme, I am 18 years-old and 
