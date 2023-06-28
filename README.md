@@ -12,7 +12,7 @@
   </p>
   <p align="left">
     :leaves:
-    <strong>Tools:</strong> Visual Studio Code, IntelliJ, Git, Github and Sublime.
+    <strong>Tools:</strong> Visual Studio Code, IntelliJ, Git and Github.
   </p>
   <p align="left">
     :globe_with_meridians:
