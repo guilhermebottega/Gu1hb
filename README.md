@@ -2,7 +2,7 @@
   <img align="right" width="300" src="https://pbs.twimg.com/profile_images/1621642428804464640/0Qt7vdPw_400x400.jpg" alt="avatar">
   <h1>About me</h1>
   <p align="left">
-     My name is Guilherme, I am 19 years-old and 
+     My name is Guilherme, I am 21 years-old and 
     I am <strong>beginner developer</strong>, 
      I love programming languages.
   </p>
@@ -30,6 +30,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"/>
 </a>
 </a>
-<a href="mailto:guihbottega@gmail.com" target="_blank">
+<a href="mailto:contato@gbottega.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-badge"/>
 </a>
